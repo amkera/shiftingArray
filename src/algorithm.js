@@ -2,7 +2,7 @@ function shifting(string, shiftArray) {
 
     let letters = string.split("") //[a, b, c, d, e, f, g]
 
-    let finalArray = []
+    //let finalArray = []
 
     for (let i = 0; i < shiftArray.length; i++) {
 
