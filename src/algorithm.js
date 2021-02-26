@@ -27,3 +27,5 @@ function shifting(string, shiftArray) {
 }
 
 shifting("abcdefg", [[1,1],[1,1],[0,2],[1,3]])
+
+// => efgabcd
